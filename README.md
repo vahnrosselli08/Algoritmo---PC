@@ -1,4 +1,8 @@
 # Algoritmos e Pensamento Computacional
+Franco Meloni Rosselli RGM: 49074351
+1º Semestre
+Professor Marco Antonio Sanches Anastácio
+
 
 A disciplina de Algoritmos e Pensamento Computacional constitui o pilar fundamental para o desenvolvimento da raciocínio lógico e da capacidade de resolução de problemas no âmbito da Tecnologia da Informação. O objetivo central é capacitar o estudante a decompor problemas complexos, estruturar soluções de forma algorítmica e implementá-las por meio de código computacional eficiente.
 
