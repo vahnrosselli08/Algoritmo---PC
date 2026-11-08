@@ -1,9 +1,13 @@
 # Algoritmos e Pensamento Computacional
-Franco Meloni Rosselli RGM: 49074351
-1º Semestre
-Professor Marco Antonio Sanches Anastácio
 
+**Estudante:** Franco Meloni Rosselli
+**Disciplina:** Algoritmos e Pensamento Computacional
+**Semestre:** 2º Semestre de 2026
+**Professor:** Marco Sanches
+**Instituição:** Universidade Cruzeiro do Sul
 
-A disciplina de Algoritmos e Pensamento Computacional constitui o pilar fundamental para o desenvolvimento da raciocínio lógico e da capacidade de resolução de problemas no âmbito da Tecnologia da Informação. O objetivo central é capacitar o estudante a decompor problemas complexos, estruturar soluções de forma algorítmica e implementá-las por meio de código computacional eficiente.
+## 🎯 Objetivo do Repositório
+Este repositório foi criado para armazenar e organizar todas as atividades práticas, exercícios e projetos desenvolvidos ao longo do semestre na disciplina de Algoritmos e Pensamento Computacional, implementados em linguagem C.
 
-A utilização da linguagem C como ferramenta pedagógica visa proporcionar uma compreensão aprofundada dos conceitos de baixo e médio nível, aproximando o aluno do funcionamento interno da arquitetura de computadores, gerenciamento de memória e compilação de software.
+## 📂 Organização das Pastas
+O repositório está estruturado por aulas (ex: `Aula01`, `Aula02`). Dentro de cada aula, você encontrará subdiretórios específicos para os `Exercicios` e `Projetos` desenvolvidos naquele dia.
